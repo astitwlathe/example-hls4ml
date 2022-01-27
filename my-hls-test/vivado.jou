@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:48:12 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Thu Jan 27 09:35:51 2022
+# Process ID: 18160
+# Current directory: /data1/aslathe/work/demo/test_model_vcu118/my-hls-test
+# Command line: vivado -mode batch -source vivado_synth.tcl
+# Log file: /data1/aslathe/work/demo/test_model_vcu118/my-hls-test/vivado.log
+# Journal file: /data1/aslathe/work/demo/test_model_vcu118/my-hls-test/vivado.jou
+#-----------------------------------------------------------
+source vivado_synth.tcl

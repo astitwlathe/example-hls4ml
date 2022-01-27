@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:48:12 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Thu Jan 27 09:35:30 2022
+# Process ID: 17726
+# Current directory: /data1/aslathe/work/demo/test_model_vcu118/my-hls-test/myproject_prj/solution1/sim/verilog
+# Command line: wbtcv -mode batch -source /data1/aslathe/work/demo/test_model_vcu118/my-hls-test/myproject_prj/solution1/sim/verilog/xsim.dir/myproject/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /data1/aslathe/work/demo/test_model_vcu118/my-hls-test/myproject_prj/solution1/sim/verilog/webtalk.log
+# Journal file: /data1/aslathe/work/demo/test_model_vcu118/my-hls-test/myproject_prj/solution1/sim/verilog/webtalk.jou
+#-----------------------------------------------------------
+source /data1/aslathe/work/demo/test_model_vcu118/my-hls-test/myproject_prj/solution1/sim/verilog/xsim.dir/myproject/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-186] '/data1/aslathe/work/demo/test_model_vcu118/my-hls-test/myproject_prj/solution1/sim/verilog/xsim.dir/myproject/webtalk/usage_statistics_ext_xsim.xml' has been successfully sent to Xilinx on Thu Jan 27 09:35:32 2022. For additional details about this file, please refer to the WebTalk help file at /data/Xilinx/Vivado/2019.2/doc/webtalk_introduction.html.
+INFO: [Common 17-206] Exiting Webtalk at Thu Jan 27 09:35:32 2022...

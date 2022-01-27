@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xd:acceleratorMap xmlns:xd="http://www.xilinx.com/xidane" xd:functionName="myproject" xd:componentRef="myproject" xd:initiationInterval="1" xd:clockPeriod="5.000" xd:sequential="true" xd:hostMachine="64" xd:reset="control">
+  <xd:controlReg xd:name="control" xd:interfaceRef="ap_ctrl" xd:busTypeRef="acc_handshake" xd:type="acc_handshake"/>
+  <xd:arg xd:name="input_1[0]" xd:originalName="input_10" xd:direction="in" xd:interfaceRef="input_1_V" xd:busTypeRef="register" xd:handshakeRef="ap_vld" xd:dataWidth="16" xd:dataPack="true" xd:bitMapping="15:0" xd:arraySize="1"/>
+  <xd:arg xd:name="input_1[1]" xd:originalName="input_11" xd:direction="in" xd:interfaceRef="input_1_V" xd:busTypeRef="register" xd:handshakeRef="ap_vld" xd:dataWidth="16" xd:dataPack="true" xd:bitMapping="31:16" xd:arraySize="1"/>
+  <xd:arg xd:name="input_1[2]" xd:originalName="input_12" xd:direction="in" xd:interfaceRef="input_1_V" xd:busTypeRef="register" xd:handshakeRef="ap_vld" xd:dataWidth="16" xd:dataPack="true" xd:bitMapping="47:32" xd:arraySize="1"/>
+  <xd:arg xd:name="input_1[3]" xd:originalName="input_13" xd:direction="in" xd:interfaceRef="input_1_V" xd:busTypeRef="register" xd:handshakeRef="ap_vld" xd:dataWidth="16" xd:dataPack="true" xd:bitMapping="63:48" xd:arraySize="1"/>
+  <xd:arg xd:name="input_1[4]" xd:originalName="input_14" xd:direction="in" xd:interfaceRef="input_1_V" xd:busTypeRef="register" xd:handshakeRef="ap_vld" xd:dataWidth="16" xd:dataPack="true" xd:bitMapping="79:64" xd:arraySize="1"/>
+  <xd:arg xd:name="input_1[5]" xd:originalName="input_15" xd:direction="in" xd:interfaceRef="input_1_V" xd:busTypeRef="register" xd:handshakeRef="ap_vld" xd:dataWidth="16" xd:dataPack="true" xd:bitMapping="95:80" xd:arraySize="1"/>
+  <xd:arg xd:name="input_1[6]" xd:originalName="input_16" xd:direction="in" xd:interfaceRef="input_1_V" xd:busTypeRef="register" xd:handshakeRef="ap_vld" xd:dataWidth="16" xd:dataPack="true" xd:bitMapping="111:96" xd:arraySize="1"/>
+  <xd:arg xd:name="input_1[7]" xd:originalName="input_17" xd:direction="in" xd:interfaceRef="input_1_V" xd:busTypeRef="register" xd:handshakeRef="ap_vld" xd:dataWidth="16" xd:dataPack="true" xd:bitMapping="127:112" xd:arraySize="1"/>
+  <xd:arg xd:name="input_1[8]" xd:originalName="input_18" xd:direction="in" xd:interfaceRef="input_1_V" xd:busTypeRef="register" xd:handshakeRef="ap_vld" xd:dataWidth="16" xd:dataPack="true" xd:bitMapping="143:128" xd:arraySize="1"/>
+  <xd:arg xd:name="input_1[9]" xd:originalName="input_19" xd:direction="in" xd:interfaceRef="input_1_V" xd:busTypeRef="register" xd:handshakeRef="ap_vld" xd:dataWidth="16" xd:dataPack="true" xd:bitMapping="159:144" xd:arraySize="1"/>
+  <xd:arg xd:name="input_1[10]" xd:originalName="input_110" xd:direction="in" xd:interfaceRef="input_1_V" xd:busTypeRef="register" xd:handshakeRef="ap_vld" xd:dataWidth="16" xd:dataPack="true" xd:bitMapping="175:160" xd:arraySize="1"/>
+  <xd:arg xd:name="input_1[11]" xd:originalName="input_111" xd:direction="in" xd:interfaceRef="input_1_V" xd:busTypeRef="register" xd:handshakeRef="ap_vld" xd:dataWidth="16" xd:dataPack="true" xd:bitMapping="191:176" xd:arraySize="1"/>
+  <xd:arg xd:name="input_1[12]" xd:originalName="input_112" xd:direction="in" xd:interfaceRef="input_1_V" xd:busTypeRef="register" xd:handshakeRef="ap_vld" xd:dataWidth="16" xd:dataPack="true" xd:bitMapping="207:192" xd:arraySize="1"/>
+  <xd:arg xd:name="input_1[13]" xd:originalName="input_113" xd:direction="in" xd:interfaceRef="input_1_V" xd:busTypeRef="register" xd:handshakeRef="ap_vld" xd:dataWidth="16" xd:dataPack="true" xd:bitMapping="223:208" xd:arraySize="1"/>
+  <xd:arg xd:name="input_1[14]" xd:originalName="input_114" xd:direction="in" xd:interfaceRef="input_1_V" xd:busTypeRef="register" xd:handshakeRef="ap_vld" xd:dataWidth="16" xd:dataPack="true" xd:bitMapping="239:224" xd:arraySize="1"/>
+  <xd:arg xd:name="input_1[15]" xd:originalName="input_115" xd:direction="in" xd:interfaceRef="input_1_V" xd:busTypeRef="register" xd:handshakeRef="ap_vld" xd:dataWidth="16" xd:dataPack="true" xd:bitMapping="255:240" xd:arraySize="1"/>
+  <xd:arg xd:name="layer9_out[0]" xd:originalName="layer9_out0" xd:direction="out" xd:interfaceRef="layer9_out_0_V" xd:busTypeRef="register" xd:handshakeRef="ap_vld" xd:dataWidth="16" xd:firstOut="10" xd:arraySize="1"/>
+  <xd:arg xd:name="layer9_out[1]" xd:originalName="layer9_out1" xd:direction="out" xd:interfaceRef="layer9_out_1_V" xd:busTypeRef="register" xd:handshakeRef="ap_vld" xd:dataWidth="16" xd:firstOut="10" xd:arraySize="1"/>
+  <xd:arg xd:name="layer9_out[2]" xd:originalName="layer9_out2" xd:direction="out" xd:interfaceRef="layer9_out_2_V" xd:busTypeRef="register" xd:handshakeRef="ap_vld" xd:dataWidth="16" xd:firstOut="10" xd:arraySize="1"/>
+  <xd:arg xd:name="layer9_out[3]" xd:originalName="layer9_out3" xd:direction="out" xd:interfaceRef="layer9_out_3_V" xd:busTypeRef="register" xd:handshakeRef="ap_vld" xd:dataWidth="16" xd:firstOut="10" xd:arraySize="1"/>
+  <xd:arg xd:name="layer9_out[4]" xd:originalName="layer9_out4" xd:direction="out" xd:interfaceRef="layer9_out_4_V" xd:busTypeRef="register" xd:handshakeRef="ap_vld" xd:dataWidth="16" xd:firstOut="10" xd:arraySize="1"/>
+  <xd:arg xd:name="const_size_in_1" xd:originalName="const_size_in_1" xd:direction="out" xd:interfaceRef="const_size_in_1" xd:busTypeRef="register" xd:handshakeRef="ap_vld" xd:dataWidth="16" xd:firstOut="10"/>
+  <xd:arg xd:name="const_size_out_1" xd:originalName="const_size_out_1" xd:direction="out" xd:interfaceRef="const_size_out_1" xd:busTypeRef="register" xd:handshakeRef="ap_vld" xd:dataWidth="16" xd:firstOut="10"/>
+  <xd:latencyEstimates xd:best-case="10" xd:worst-case="10" xd:average-case="10"/>
+  <xd:resourceEstimates xd:LUT="112473" xd:FF="15168" xd:BRAM="4" xd:DSP="3317"/>
+</xd:acceleratorMap>
